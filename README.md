@@ -57,5 +57,8 @@ NumPy
 Matplotlib
 
 PyCharm (development environment)
+
+
 **AUTHOR**
+
 Dimitrios Dalaklidhs, Backend Developer
