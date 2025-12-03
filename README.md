@@ -1,4 +1,4 @@
-This project compares three numerical integration methods (Euler, Improved Euler, and Runge–Kutta) implemented in Python this time. Includes automated testing, performance analysis, and reproducible build scripts. Demonstrates algorithmic reasoning.
+This project compares three numerical integration methods (Euler, Improved Euler) implemented in Python this time. Demonstrates algorithmic reasoning.
 
 Implements numerical methods for solving first-order Ordinary Differential Equations (ODEs) of the form:
 
@@ -8,7 +8,7 @@ It provides three common numerical solvers:
 
 FE (Forward Euler)
 CD (Central Difference / Modified Euler)
-IE (Implicit Euler)
+IE (Improved Euler)
 Example:
 
 Enter initial value problem data y'(t)=f(t,y), y(a)=y0 a: 0 b: 1 y0: 1 Do you want to run for h=0.2 and h=0.1? [y/n]: y
@@ -53,8 +53,4 @@ Matplotlib
 
 PyCharm (development environment)
 **AUTHOR**
-Dimitrios Dalaklidis
- Backend & Systems Developer
-GitHub: DimitriosDalaklidhs
- Backend & Systems Developer
-GitHub: DimitriosDalaklidhs
+Dimitrios Dalaklidhs, Backend Developer
