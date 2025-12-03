@@ -27,10 +27,15 @@ f(t, y) = 1 − 2πsin(2πt) → exact solution y(t) = t + cos(2πt)
 
 
 **PROJECT STRUCTURE**
+
 PYTHON_ODE/
+
 │
+
 ├── main.py          # Numerical methods, execution logic, error tables, plots
+
 ├── ext_func.py      # External definition of f(t,y) and the exact solution
+
 └── README.md
 
 **Conclusions (General)**
